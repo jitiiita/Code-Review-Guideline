@@ -20,7 +20,7 @@
 - Consider reusable code
 - Consider generic functions and classes
 
- Reliability
+# Reliability
 - Exception Handling & Clean up
 
 # Extensibility
